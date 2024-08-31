@@ -7,8 +7,12 @@ Java Developer and Front-End Developer
 Passionate Java Developer with 2.5 years of hands-on experience in building scalable, high-performance applications. Proficient in Java, Spring Framework, Hibernate, and RESTful APIs. Enthusiastic about solving complex problems and contributing to open-source projects. Always learning and looking to collaborate on exciting challenges.
 
 * 🌍  I'm based in Thane, Mumbai
-* ✉️  You can contact me at [18112017satyendra@gmail.com](mailto:18112017satyendra@gmail.com)
 * 🧠  I'm learning Spring/Spring Boot
+* 🔭 I’m currently working on Spring boot Project
+* 🌱 I’m currently learning Spring Boot/React.js
+* 💬 Ask me about Java,JS/TS,React...
+* ✉️  You can contact me at [18112017satyendra@gmail.com](mailto:18112017satyendra@gmail.com)
+*⚡ Fun fact I think I am a good coder
 
 ### Skills
 
