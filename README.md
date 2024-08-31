@@ -12,7 +12,7 @@ Passionate Java Developer with 2.5 years of hands-on experience in building scal
 * 🌱 I’m currently learning Spring Boot/React.js
 * 💬 Ask me about Java,JS/TS,React...
 * ✉️  You can contact me at [18112017satyendra@gmail.com](mailto:18112017satyendra@gmail.com)
-*⚡ Fun fact I think I am a good coder
+* ⚡ Fun fact I think I am a good coder
 
 ### Skills
 
