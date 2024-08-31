@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satyendra Kumar
 =======================================================================================================================================
-<a href="https://cdn.dribbble.com/userupload/9530966/file/original-f6a6c5df77049ad5d1786ceb9835a042.jpg?resize=1600x1016"></a>
+
 Java|Front-End Developer
 
 * 🌍  I'm based in Thane, Mumbai
