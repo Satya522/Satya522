@@ -159,8 +159,8 @@ Integrated developer learning platform with structured learning workflows and AI
 <div align="center">
 
 <a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&label=Followers&color=0f766e" alt="GitHub followers" /></a>
-<a href="https://github.com/Satya522?tab=repositories"><img src="https://img.shields.io/github/repos/Satya522?style=for-the-badge&label=Public%20repositories&color=1e3a5f" alt="Public repositories" /></a>
-<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/commit-activity/y/Satya522?style=for-the-badge&label=Commits%20this%20year&color=0f766e" alt="Commits this year" /></a>
+<a href="https://github.com/Satya522/JOB-HUNTER/commits/main"><img src="https://img.shields.io/github/last-commit/Satya522/JOB-HUNTER?style=for-the-badge&label=Latest%20project%20update&color=1e3a5f" alt="Latest JOB-HUNTER update" /></a>
+<a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/github/languages/count/Satya522/CodeTrace?style=for-the-badge&label=CodeTrace%20languages&color=0f766e" alt="CodeTrace language count" /></a>
 <a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=1e3a5f" alt="GitHub stars" /></a>
 
 <br/><br/>
