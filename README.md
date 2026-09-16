@@ -51,23 +51,56 @@ location:    Thane, Mumbai, India
 
 <div align="center">
 
-**Languages**<br/>
+<table>
+<tr>
+<td align="center" width="50%"><strong>Languages</strong><br/><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-
-**Frameworks & Libraries**<br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</td>
+<td align="center" width="50%"><strong>Frontend</strong><br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-
-**Database & Tools**<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Backend & Databases</strong><br/><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</td>
+<td align="center"><strong>Cloud & Automation</strong><br/><br/>
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0f766e?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Productivity & Office</strong><br/><br/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft&logoColor=white" alt="Excel VBA"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Google Docs"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
+</td>
+<td align="center"><strong>IDEs & Developer Tools</strong><br/><br/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm"/>
+<img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" alt="DataGrip"/>
+<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
+</td>
+</tr>
+</table>
 
 </div>
 
