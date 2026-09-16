@@ -158,11 +158,15 @@ Integrated developer learning platform with structured learning workflows and AI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satya522&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0f766e&icon_color=1b8a6a&text_color=334155&count_private=true" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Satya522&theme=transparent&hide_border=true&ring=0f766e&fire=1b8a6a&currStreakLabel=0f766e" width="49%" alt="GitHub streak"/>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&label=Followers&color=0f766e" alt="GitHub followers" /></a>
+<a href="https://github.com/Satya522?tab=repositories"><img src="https://img.shields.io/github/repos/Satya522?style=for-the-badge&label=Public%20repositories&color=1e3a5f" alt="Public repositories" /></a>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/commit-activity/y/Satya522?style=for-the-badge&label=Commits%20this%20year&color=0f766e" alt="Commits this year" /></a>
+<a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=1e3a5f" alt="GitHub stars" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya522&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155&langs_count=8" width="49%" alt="Top languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Satya522&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="49%" alt="GitHub trophies"/>
+<br/><br/>
+
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Java%20%7C%20TypeScript%20%7C%20JavaScript-Primary%20stack-0f766e?style=for-the-badge" alt="Primary stack" /></a>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Building-Spring%20Boot%20%2B%20React-14b8a6?style=for-the-badge" alt="Building with Spring Boot and React" /></a>
 
 </div>
 
