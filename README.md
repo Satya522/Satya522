@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+production-ready+software;Java+%26+Spring+Boot+backend+engineer;React+%2B+TypeScript+on+the+frontend;Always+shipping%2C+always+learning;&font=Fira+Code&center=true&width=680&height=45&color=0f766e&vCenter=true&size=22&pause=1200" alt="Building clean production-ready software" />
 
