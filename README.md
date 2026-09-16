@@ -171,7 +171,7 @@ Integrated developer learning platform with structured learning workflows and AI
 <a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/github/languages/count/Satya522/CodeTrace?style=for-the-badge&label=CodeTrace%20languages&color=39ff88&labelColor=071a14" alt="CodeTrace language count" /></a>
 <a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=2563EB&labelColor=071a14" alt="GitHub stars" /></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Java%20%7C%20TypeScript%20%7C%20JavaScript-Primary%20stack-39ff88?style=for-the-badge&labelColor=071a14" alt="Primary stack" /></a>
 <a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Building-Spring%20Boot%20%2B%20React-2563EB?style=for-the-badge&labelColor=071a14" alt="Building with Spring Boot and React" /></a>
@@ -199,7 +199,7 @@ Integrated developer learning platform with structured learning workflows and AI
 <a href="https://www.geeksforgeeks.org/user/satyendra7312/"><img src="https://img.shields.io/badge/-satyendra7312-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 <a href="mailto:18112017satyendra@gmail.com"><img src="https://img.shields.io/badge/-18112017satyendra%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f766e,100:0f172a&section=footer" width="100%" alt="Footer"/>
 
