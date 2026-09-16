@@ -32,18 +32,21 @@
 
 ## 🧭 About Me
 
-I'm a **2024 Computer Science graduate** based in **Thane, Mumbai**, currently working at **Go Fashion (India) Limited** as an **Online Operations Associate**. My daily work combines business operations, data analysis, reporting, automation, and technology-driven workflows.
+I graduated in **2024 with a Computer Science degree from Technocrats Institute of Technology and Science, Bhopal**. I currently work at **Go Fashion (India) Limited** in **Kalyan, Maharashtra**, where I contribute as an **Online Operations Associate**.
 
-Alongside my professional work, I continue building software and strengthening my development skills across backend systems, frontend interfaces, and practical automation.
+In my current role, I work across online operations, data analysis, reporting, process automation, and technology-driven business workflows. I use tools such as **Python, Power BI, Microsoft Excel, Google Sheets, SAP, VBA, Google Apps Script, and Microsoft databases** to organize information, improve processes, and support day-to-day operations.
+
+Alongside my professional work, I continue developing my software engineering skills and building practical projects across backend systems, frontend interfaces, and automation.
 
 ```yaml
 education:   Computer Science graduate, 2024
+institute:    Technocrats Institute of Technology and Science, Bhopal
 role:        Online Operations Associate
 company:     Go Fashion (India) Limited
 focus:       Operations · Reporting · Data Analysis · Automation
-tools:       Python · Power BI · Excel · Google Sheets · SAP · VBA · Apps Script
+tools:       Python · Power BI · Excel · Google Sheets · SAP · VBA · Apps Script · Microsoft databases
 strengths:   Problem Solving · Process Improvement · Learning by Building
-location:    Thane, Mumbai, India
+location:    Kalyan, Maharashtra, India
 ```
 
 💼 Currently working with **Python, Power BI, Excel, Google Sheets, SAP, VBA, and Google Apps Script**<br/>
