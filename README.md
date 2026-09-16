@@ -32,19 +32,24 @@
 
 ## 🧭 About Me
 
-I'm a **Computer Science graduate and developer** based in **Thane, Mumbai**, focused on turning ideas into complete, reliable products - from a clean interface down to a solid backend.
+I'm a **2024 Computer Science graduate** based in **Thane, Mumbai**, currently working at **Go Fashion (India) Limited** as an **Online Incharge / Online Operations Associate**. My daily work combines business operations, data analysis, reporting, automation, and technology-driven workflows.
+
+Alongside my professional work, I continue building software and strengthening my development skills across backend systems, frontend interfaces, and practical automation.
 
 ```yaml
-role:        Full-Stack Developer
-focus:       Spring Boot APIs · React Architecture · PostgreSQL
-strengths:   Java · Frontend Engineering · Problem Solving · Learning by Building
-status:      Building projects & sharpening full-stack engineering skills
+education:   Computer Science graduate, 2024
+role:        Online Incharge / Online Operations Associate
+company:     Go Fashion (India) Limited
+focus:       Operations · Reporting · Data Analysis · Automation
+tools:       Python · Power BI · Excel · Google Sheets · SAP · VBA · Apps Script
+strengths:   Problem Solving · Process Improvement · Learning by Building
 location:    Thane, Mumbai, India
 ```
 
-🔭 Currently building end-to-end apps with **Spring Boot + React + PostgreSQL**<br/>
-🌱 Deepening knowledge of **auth, testing & production deployment workflows**<br/>
-💬 Ask me about **Java, Spring Boot, or React/TypeScript architecture**<br/>
+💼 Currently working with **Python, Power BI, Excel, Google Sheets, SAP, VBA, and Google Apps Script**<br/>
+📊 Turning operational data into useful reports, insights, and repeatable workflows<br/>
+⚙️ Interested in automation, process improvement, backend systems, and frontend development<br/>
+💬 Ask me about **data workflows, reporting automation, Java, or React/TypeScript**<br/>
 ⚡ Fun fact: I'd rather refactor once than patch it five times
 
 ## 🛠️ Tech Stack
