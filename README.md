@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e3a5f,100:0f766e&text=Satyendra%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20TypeScript&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Satyendra Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:071a14,50:0d3b2e,100:39ff88&text=Satyendra%20Kumar&font=Space%20Grotesk&fontColor=f5fff8&fontSize=52&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20TypeScript&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Satyendra Kumar" />
 
 <br/>
 
@@ -19,12 +19,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+production-ready+software;Java+%26+Spring+Boot+backend+engineer;React+%2B+TypeScript+on+the+frontend;Always+shipping%2C+always+learning;&font=Fira+Code&center=true&width=680&height=45&color=0f766e&vCenter=true&size=22&pause=1200" alt="Building clean production-ready software" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+production-ready+software;Java+%26+Spring+Boot+backend+engineer;React+%2B+TypeScript+on+the+frontend;Always+shipping%2C+always+learning;&font=JetBrains+Mono&center=true&width=680&height=45&color=39FF88&vCenter=true&size=22&pause=1200" alt="Building clean production-ready software" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Satya522&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&color=0f172a&labelColor=1e3a5f" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=Satya522&style=for-the-badge&color=39ff88&labelColor=071a14&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&color=39ff88&labelColor=071a14" alt="GitHub followers" />
 
 </div>
 
@@ -116,7 +116,7 @@ location:    Thane, Mumbai, India
 
 AI-assisted career command center for discovering roles, tailoring applications, preparing for interviews, and tracking job-search momentum.
 
-<a href="https://github.com/Satya522/JOB-HUNTER"><img src="https://img.shields.io/badge/View%20repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View JOB-HUNTER" /></a>
+<a href="https://github.com/Satya522/JOB-HUNTER"><img src="https://img.shields.io/badge/View%20repository-39FF88?style=for-the-badge&logo=github&logoColor=071a14" alt="View JOB-HUNTER" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +125,7 @@ AI-assisted career command center for discovering roles, tailoring applications,
 
 Interactive code visualization engine with step-by-step execution, live memory tracking, call-stack visualization, and algorithm animations.
 
-<a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/badge/View%20repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View CodeTrace" /></a>
+<a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/badge/View%20repository-39FF88?style=for-the-badge&logo=github&logoColor=071a14" alt="View CodeTrace" /></a>
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Interactive code visualization engine with step-by-step execution, live memory t
 
 Typing practice platform with focused lessons, performance analytics, practice modes, and a browser game arcade.
 
-<a href="https://github.com/Satya522/TypeForge"><img src="https://img.shields.io/badge/View%20repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View TypeForge" /></a>
+<a href="https://github.com/Satya522/TypeForge"><img src="https://img.shields.io/badge/View%20repository-39FF88?style=for-the-badge&logo=github&logoColor=071a14" alt="View TypeForge" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -145,8 +145,8 @@ Typing practice platform with focused lessons, performance analytics, practice m
 
 Integrated developer learning platform with structured learning workflows and AI-assisted development experiences.
 
-<a href="https://github.com/Satya522/codeorbit"><img src="https://img.shields.io/badge/Repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View codeorbit repository" /></a>
-<a href="https://codeorbit-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Open codeorbit live demo" /></a>
+<a href="https://github.com/Satya522/codeorbit"><img src="https://img.shields.io/badge/Repository-39FF88?style=for-the-badge&logo=github&logoColor=071a14" alt="View codeorbit repository" /></a>
+<a href="https://codeorbit-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=071a14" alt="Open codeorbit live demo" /></a>
 
 </td>
 </tr>
@@ -158,15 +158,15 @@ Integrated developer learning platform with structured learning workflows and AI
 
 <div align="center">
 
-<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&label=Followers&color=0f766e" alt="GitHub followers" /></a>
-<a href="https://github.com/Satya522/JOB-HUNTER/commits/main"><img src="https://img.shields.io/github/last-commit/Satya522/JOB-HUNTER?style=for-the-badge&label=Latest%20project%20update&color=1e3a5f" alt="Latest JOB-HUNTER update" /></a>
-<a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/github/languages/count/Satya522/CodeTrace?style=for-the-badge&label=CodeTrace%20languages&color=0f766e" alt="CodeTrace language count" /></a>
-<a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=1e3a5f" alt="GitHub stars" /></a>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&label=Followers&color=39ff88&labelColor=071a14" alt="GitHub followers" /></a>
+<a href="https://github.com/Satya522/JOB-HUNTER/commits/main"><img src="https://img.shields.io/github/last-commit/Satya522/JOB-HUNTER?style=for-the-badge&label=Latest%20project%20update&color=00d9ff&labelColor=071a14" alt="Latest JOB-HUNTER update" /></a>
+<a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/github/languages/count/Satya522/CodeTrace?style=for-the-badge&label=CodeTrace%20languages&color=39ff88&labelColor=071a14" alt="CodeTrace language count" /></a>
+<a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=00d9ff&labelColor=071a14" alt="GitHub stars" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Java%20%7C%20TypeScript%20%7C%20JavaScript-Primary%20stack-0f766e?style=for-the-badge" alt="Primary stack" /></a>
-<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Building-Spring%20Boot%20%2B%20React-14b8a6?style=for-the-badge" alt="Building with Spring Boot and React" /></a>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Java%20%7C%20TypeScript%20%7C%20JavaScript-Primary%20stack-39ff88?style=for-the-badge&labelColor=071a14" alt="Primary stack" /></a>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Building-Spring%20Boot%20%2B%20React-00d9ff?style=for-the-badge&labelColor=071a14" alt="Building with Spring Boot and React" /></a>
 
 </div>
 
