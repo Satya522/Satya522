@@ -108,30 +108,49 @@ location:    Thane, Mumbai, India
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Satya522/JOB-HUNTER">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Satya522&repo=JOB-HUNTER&theme=transparent&title_color=0f766e&icon_color=1b8a6a&text_color=334155&border_color=0f766e" alt="JOB-HUNTER" />
-</a>
-<a href="https://github.com/Satya522/CodeTrace">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Satya522&repo=CodeTrace&theme=transparent&title_color=0f766e&icon_color=1b8a6a&text_color=334155&border_color=0f766e" alt="CodeTrace" />
-</a>
-<br/>
-<a href="https://github.com/Satya522/Java-Course">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Satya522&repo=Java-Course&theme=transparent&title_color=0f766e&icon_color=1b8a6a&text_color=334155&border_color=0f766e" alt="Java-Course" />
-</a>
-<a href="https://github.com/Satya522/Simple-ChatBot-With-Java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Satya522&repo=Simple-ChatBot-With-Java&theme=transparent&title_color=0f766e&icon_color=1b8a6a&text_color=334155&border_color=0f766e" alt="Simple ChatBot With Java" />
-</a>
+### JOB-HUNTER
 
-</div>
+AI-assisted career command center for discovering roles, tailoring applications, preparing for interviews, and tracking job-search momentum.
 
-| Project | Description | Stack |
-|---|---|---|
-| 🧳 **[JOB-HUNTER](https://github.com/Satya522/JOB-HUNTER)** | Organize and manage the entire job search workflow | `TypeScript` |
-| 🧑‍💻 **[CodeTrace](https://github.com/Satya522/CodeTrace)** | Developer-focused project built around coding & project workflows | `TypeScript` |
-| ☕ **[Java-Course](https://github.com/Satya522/Java-Course)** | Structured collection covering Core Java, Advanced Java & DSA | `Java` |
-| 🤖 **[Simple ChatBot](https://github.com/Satya522/Simple-ChatBot-With-Java)** | Practical Java chatbot application | `Java` |
+<a href="https://github.com/Satya522/JOB-HUNTER"><img src="https://img.shields.io/badge/View%20repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View JOB-HUNTER" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### CodeTrace
+
+Interactive code visualization engine with step-by-step execution, live memory tracking, call-stack visualization, and algorithm animations.
+
+<a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/badge/View%20repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View CodeTrace" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### TypeForge
+
+Typing practice platform with focused lessons, performance analytics, practice modes, and a browser game arcade.
+
+<a href="https://github.com/Satya522/TypeForge"><img src="https://img.shields.io/badge/View%20repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View TypeForge" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### codeorbit
+
+Integrated developer learning platform with structured learning workflows and AI-assisted development experiences.
+
+<a href="https://github.com/Satya522/codeorbit"><img src="https://img.shields.io/badge/Repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View codeorbit repository" /></a>
+<a href="https://codeorbit-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Open codeorbit live demo" /></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
