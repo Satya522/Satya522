@@ -32,13 +32,13 @@
 
 ## 🧭 About Me
 
-I'm a **2024 Computer Science graduate** based in **Thane, Mumbai**, currently working at **Go Fashion (India) Limited** as an **Online Incharge / Online Operations Associate**. My daily work combines business operations, data analysis, reporting, automation, and technology-driven workflows.
+I'm a **2024 Computer Science graduate** based in **Thane, Mumbai**, currently working at **Go Fashion (India) Limited** as an **Online Operations Associate**. My daily work combines business operations, data analysis, reporting, automation, and technology-driven workflows.
 
 Alongside my professional work, I continue building software and strengthening my development skills across backend systems, frontend interfaces, and practical automation.
 
 ```yaml
 education:   Computer Science graduate, 2024
-role:        Online Incharge / Online Operations Associate
+role:        Online Operations Associate
 company:     Go Fashion (India) Limited
 focus:       Operations · Reporting · Data Analysis · Automation
 tools:       Python · Power BI · Excel · Google Sheets · SAP · VBA · Apps Script
