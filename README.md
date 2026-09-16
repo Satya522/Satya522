@@ -93,11 +93,11 @@ location:    Thane, Mumbai, India
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
 </td>
 <td align="center"><strong>IDEs & Developer Tools</strong><br/><br/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm"/>
-<img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" alt="DataGrip"/>
-<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-7B2CBF?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/WebStorm-00A8A8?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm"/>
+<img src="https://img.shields.io/badge/DataGrip-16A085?style=flat-square&logo=datagrip&logoColor=white" alt="DataGrip"/>
+<img src="https://img.shields.io/badge/JetBrains-FF0080?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains"/>
 </td>
 </tr>
 </table>
@@ -159,14 +159,14 @@ Integrated developer learning platform with structured learning workflows and AI
 <div align="center">
 
 <a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/github/followers/Satya522?style=for-the-badge&label=Followers&color=39ff88&labelColor=071a14" alt="GitHub followers" /></a>
-<a href="https://github.com/Satya522/JOB-HUNTER/commits/main"><img src="https://img.shields.io/github/last-commit/Satya522/JOB-HUNTER?style=for-the-badge&label=Latest%20project%20update&color=00d9ff&labelColor=071a14" alt="Latest JOB-HUNTER update" /></a>
+<a href="https://github.com/Satya522/JOB-HUNTER/commits/main"><img src="https://img.shields.io/github/last-commit/Satya522/JOB-HUNTER?style=for-the-badge&label=Latest%20project%20update&color=2563EB&labelColor=071a14" alt="Latest JOB-HUNTER update" /></a>
 <a href="https://github.com/Satya522/CodeTrace"><img src="https://img.shields.io/github/languages/count/Satya522/CodeTrace?style=for-the-badge&label=CodeTrace%20languages&color=39ff88&labelColor=071a14" alt="CodeTrace language count" /></a>
-<a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=00d9ff&labelColor=071a14" alt="GitHub stars" /></a>
+<a href="https://github.com/Satya522?tab=stars"><img src="https://img.shields.io/github/stars/Satya522?style=for-the-badge&label=Stars&color=2563EB&labelColor=071a14" alt="GitHub stars" /></a>
 
 <br/><br/>
 
 <a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Java%20%7C%20TypeScript%20%7C%20JavaScript-Primary%20stack-39ff88?style=for-the-badge&labelColor=071a14" alt="Primary stack" /></a>
-<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Building-Spring%20Boot%20%2B%20React-00d9ff?style=for-the-badge&labelColor=071a14" alt="Building with Spring Boot and React" /></a>
+<a href="https://github.com/Satya522?tab=overview"><img src="https://img.shields.io/badge/Building-Spring%20Boot%20%2B%20React-2563EB?style=for-the-badge&labelColor=071a14" alt="Building with Spring Boot and React" /></a>
 
 </div>
 
